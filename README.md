@@ -1,6 +1,6 @@
-# GameSpace - Online Gaming Website using HTML, CSS, Bootstrap & JavaScript
+# Scienceveli Online Gaming
 
-GameSpace
-This is a website I created as a project for Web Development course in my college that I created using HTML, CSS and bootstrap and all the website has JavaScript for backend. Really responsible and easy to understand.
+العب الألعاب المختلفة عبر الإنترنت.
 
-LIVE-DEMO: https://gamespace-website.netlify.app/
+### اللعب على GitHub Pages:
+[ابدأ اللعب الآن](https://webveli.github.io/Scienceveli-Online-Gaming/)
